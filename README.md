@@ -36,7 +36,7 @@ I'm passionate about creating immersive experiences that inspire, surprise, and 
 | 🏆 **LookItUp** | AI-assisted fact-checking workspace for journalists |
 | 🌍 **MoodTrip** | AI-powered travel companion based on users' emotions |
 | 📦 **HARUMAN** | AI-powered one-day rental platform built with AWS |
-| 📝 **Plandocs** | Spring Boot meeting collaboration platform |
+| 📝 **PLANFLOW** | Spring Boot meeting collaboration platform |
 | 🔍 **Chajurouser** | AI-powered browser search assistant |
 | 🌙 **Fox Moon** | Platform supporting young adults transitioning out of foster care |
 
