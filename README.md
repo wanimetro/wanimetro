@@ -54,4 +54,4 @@ I'm passionate about creating immersive experiences that inspire, surprise, and 
 
 📧 Email sowon0507@khu.ac.kr
 
-📝 Blog
+📝 Blog https://wanimetro.github.io/
