@@ -14,15 +14,15 @@ I'm interested in **Human–Computer Interaction (HCI)** and how people interact
 
 **Sep. 2026 – Present**  
 XREAL · 11th Cohort  
-— Development Member · Unity & XR
+— Development Member
 
 **Sep. 2026 – Jan. 2027 (Expected)**  
 ITTA · 10th Cohort  
-— Frontend Developer · Sagye Danji
+— Frontend Developer
 
 **Jun. 28 – Jul. 12, 2026**  
 EPITECH · Paris, France  
-— Academic Training Program · LookItUp & MoodTrip
+— Academic Training Program 
 
 **Mar. 2026 – Aug. 2026**  
 AWS Student Builders Group · KHU  
