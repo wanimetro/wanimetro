@@ -10,7 +10,7 @@ I'm interested in **Human–Computer Interaction (HCI)** and how people interact
 
 ---
 
-## Experience
+## 🧭 Experience
 
 **Sep. 2026 – Present**  
 XREAL · 11th Cohort  
@@ -35,8 +35,7 @@ AWS Student Builders Group · KHU
 ### Interactive & Spatial Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+
 
 ### Languages
 
