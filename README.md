@@ -7,33 +7,26 @@
 
 I'm interested in **Human–Computer Interaction (HCI)** and how people interact with digital information through movement, gestures, and space.
 
-I explore these ideas by building interactive prototypes—from webcam-based hand tracking to Unity experiments. I'm especially curious about how **XR and spatial interfaces** can make complex information easier to explore.
 
 ---
 
-## 🌱 Current Focus
+## Experience
 
-- 🥽 **XR & Spatial Computing** — exploring interaction beyond the screen
-- ✋ **Gesture-Based Interaction** — experimenting with hand tracking and 3D data exploration
-- 🎮 **Unity Development** — learning movement, input, and interaction through XREAL DevQuest
-- 📖 **HCI & XR Papers** — reading and connecting research ideas to small prototypes
+**Sep. 2026 – Present**  
+XREAL · 11th Cohort  
+— Development Member · Unity & XR
 
----
+**Sep. 2026 – Jan. 2027 (Expected)**  
+ITTA · 10th Cohort  
+— Frontend Developer · Sagye Danji
 
-## 🔬 Interaction Projects
+**Jun. 28 – Jul. 12, 2026**  
+EPITECH · Paris, France  
+— Academic Training Program · LookItUp & MoodTrip
 
-| Project | What I'm Exploring |
-| --- | --- |
-| ✋ **[3D Hand-Interactive Graph](https://github.com/wanimetro/3d-hand-force-graph)** | A webcam-based prototype for selecting and moving 3D graph nodes with pinch gestures, using Three.js and MediaPipe |
-| 🎮 **Projet Émerveiller** | Interactive media experiments exploring movement, interaction, and visual feedback |
-
----
-
-## 🤝 Current Activities
-
-- **XREAL · 11th Cohort, Dev** — learning Unity and exploring XR interaction
-- **ITTA · 10th Cohort, Frontend** — developing **[Sagye Danji](https://github.com/ITTA-10th-Team2/sagye-danji-frontend)**, a seasonal photo journal, with a focus on the jar screen, sticker customization, and API integration
-- **[Technical Blog](https://wanimetro.github.io/)** — documenting what I learn while building projects and studying computer science
+**Mar. 2026 – Aug. 2026**  
+AWS Student Builders Group · KHU  
+— Member · PLANFLOW & HARUMAN
 
 ---
 
@@ -61,18 +54,6 @@ I explore these ideas by building interactive prototypes—from webcam-based han
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-
----
-
-## 🚀 Other Projects
-
-| Project | Description |
-| --- | --- |
-| **[LookItUp](https://github.com/wanimetro/Lookitup)** | AI-assisted fact-checking workspace for journalists |
-| **[MoodTrip](https://github.com/wanimetro/mood-trip-postcard)** | AI-powered travel companion based on users' emotions |
-| **HARUMAN** | AI-powered one-day rental platform built with AWS |
-| **PLANFLOW** | Spring Boot meeting collaboration platform |
-| **Chajurouser** | Desktop application for exploring content beyond recommendation algorithms |
 
 ---
 
