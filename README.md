@@ -22,7 +22,7 @@ EPITECH · Paris, France
 — Academic Training Program 
 
 AWS Student Builders Group · KHU  
-— Member · PLANFLOW & HARUMAN
+— Member 
 
 ---
 
