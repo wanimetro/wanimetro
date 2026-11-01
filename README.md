@@ -56,4 +56,7 @@ AWS Student Builders Group · KHU
 
 📄 **[Notion Portfolio](https://www.notion.so/21cb6060c709801db58cdc619686a47a?source=copy_link)**  
 📝 **[Technical Blog](https://wanimetro.github.io/)**  
+📝 **[Homepage](https://wanimetro.github.io/portfolio/)**  
 📧 **[sowon0507@khu.ac.kr](mailto:sowon0507@khu.ac.kr)**
+
+
